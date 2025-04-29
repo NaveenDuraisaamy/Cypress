@@ -38,3 +38,8 @@ Limitaion
 3. JavaScipt/TypeScript
 4. Reading/Writing data info file is difficults.
 5. Third party reporting tool integration also limited
+
+
+
+=======
+1. Open the Cypress app- npx cypress open
