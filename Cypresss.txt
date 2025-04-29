@@ -1,0 +1,40 @@
+About Cypress:
+
+Frontent web automation testing tool.
+Modern web application
+React Js, Angular Js
+Any application which runs on browser
+Doesn't use any selenium.
+Open Source.
+
+Test Runnner.
+ Node Js and comes with npm module.
+
+Who can do cypress -Dev&QA
+--------------------------
+End-to-End test cases
+Integration tests
+Unit test cases
+API testing
+
+Cypress Eco System
+------------------
+1. Test runner- open source. locally installed.
+2. Dashboard-Paid
+
+Feature
+-------
+1. Time travel
+2. Debug
+3. Automatic waits(Built-in)
+4. Consistance Result
+5. Screenshot&Video
+6. Cross browser- locally or remote
+
+Limitaion
+---------
+1. Can't automate window based/ Mobile Apps
+2. Limited Support
+3. JavaScipt/TypeScript
+4. Reading/Writing data info file is difficults.
+5. Third party reporting tool integration also limited
