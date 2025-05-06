@@ -42,4 +42,34 @@ Limitaion
 
 
 =======
-1. Open the Cypress app- npx cypress open
+1. Launch ways:
+npx cypress open
+npx cypress run
+npx cypress run --headed
+npx cypress run --spec cypress\e2e\login.cy.js
+npx cypress run --spec cypress\e2e\login.cy.js --headed
+npx cypress run run --browser chrome --headed
+
+2. Locators
+cy.get(CSS Selector)
+cy.xpath(Xpath)
+CSS Selector
+Xpath
+
+CSS Selector
+tag id
+tag class
+tag attribute
+tag class attribute
+
+tag#id
+tag.class
+tag.[attribute='value']
+tag.class[attribute='value']
+
+3. Xpath Command
+npm install -D cypress-xpath
+
+4. Reference
+/// <reference types="Cypress"/>
+/// <reference types="cypress-xpath" />
